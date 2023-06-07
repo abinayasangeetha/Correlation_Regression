@@ -23,7 +23,7 @@ If y represents the dependent variable and x the independent variable, this rela
 
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
-
-# Result
-
 # Output 
+![Screenshot (76)](https://github.com/naveenaakumarasamy/Correlation_Regression/assets/113497406/ab36a2b5-f575-4b69-8e6f-c1b3179f12a2)
+# Result
+Thus the program is executed successfully.  
